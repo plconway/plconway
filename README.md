@@ -1,7 +1,3 @@
-hello, world
-
-does this table appear?
-
 PCORnet_Table|PCORnet_Field|FHIR_PATH|Raw_or_Codable|Logic
 -|-|-|-|-
 Demographic|PATID|Patient.identifier|Raw|Patient ID serves as an identifer for the patient in the record.

@@ -3,7 +3,7 @@ hello, world
 does this table appear?
 
 PCORnet_Table|PCORnet_Field|FHIR_PATH|Raw_or_Codable|Logic
-PCORnet_Table|PCORnet_Field|FHIR_Path|Raw_or_Codable|Logic
+-|-|-|-|-
 Demographic|PATID|Patient.identifier|Raw|Patient ID serves as an identifer for the patient in the record.
 Demographic|BIRTH_DATE|Patient.birthDate|Raw|Birthdate of the patient is recognized in both.
 Demographic|SEX|Patient.gender|Codable|"PCORnet accounts for Sex assigned at birth, current gender identity, and sexual orientation. FHIR only accounts for ""gender for record-keeping purposes"". CAMPFHIR pulls from DEMOGRAPHIC_SEX for simplicity purposes."
